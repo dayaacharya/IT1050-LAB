@@ -1,0 +1,6 @@
+C:\Users\Daya\Desktop\labsolution\labsolution\bin\Debug\labsolution.exe.config
+C:\Users\Daya\Desktop\labsolution\labsolution\bin\Debug\labsolution.exe
+C:\Users\Daya\Desktop\labsolution\labsolution\bin\Debug\labsolution.pdb
+C:\Users\Daya\Desktop\labsolution\labsolution\obj\Debug\labsolution.csprojResolveAssemblyReference.cache
+C:\Users\Daya\Desktop\labsolution\labsolution\obj\Debug\labsolution.exe
+C:\Users\Daya\Desktop\labsolution\labsolution\obj\Debug\labsolution.pdb
