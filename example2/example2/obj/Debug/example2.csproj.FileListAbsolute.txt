@@ -1,0 +1,12 @@
+C:\Users\Daya\Desktop\example2\example2\bin\Debug\example2.exe.config
+C:\Users\Daya\Desktop\example2\example2\obj\Debug\example2.csprojResolveAssemblyReference.cache
+C:\Users\Daya\Desktop\example2\example2\bin\Debug\example2.exe
+C:\Users\Daya\Desktop\example2\example2\bin\Debug\example2.pdb
+C:\Users\Daya\Desktop\example2\example2\obj\Debug\example2.exe
+C:\Users\Daya\Desktop\example2\example2\obj\Debug\example2.pdb
+C:\Users\Daya\Desktop\Example-classes-and-objects\example2\example2\bin\Debug\example2.exe.config
+C:\Users\Daya\Desktop\Example-classes-and-objects\example2\example2\obj\Debug\example2.exe
+C:\Users\Daya\Desktop\Example-classes-and-objects\example2\example2\obj\Debug\example2.pdb
+C:\Users\Daya\Desktop\Example-classes-and-objects\example2\example2\bin\Debug\example2.exe
+C:\Users\Daya\Desktop\Example-classes-and-objects\example2\example2\bin\Debug\example2.pdb
+C:\Users\Daya\Desktop\Example-classes-and-objects\example2\example2\obj\Debug\example2.csprojResolveAssemblyReference.cache
