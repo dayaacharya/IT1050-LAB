@@ -1,0 +1,6 @@
+C:\Users\Daya\Desktop\Lab2final\Lab2final\bin\Debug\Lab2final.exe.config
+C:\Users\Daya\Desktop\Lab2final\Lab2final\bin\Debug\Lab2final.exe
+C:\Users\Daya\Desktop\Lab2final\Lab2final\bin\Debug\Lab2final.pdb
+C:\Users\Daya\Desktop\Lab2final\Lab2final\obj\Debug\Lab2final.csprojResolveAssemblyReference.cache
+C:\Users\Daya\Desktop\Lab2final\Lab2final\obj\Debug\Lab2final.exe
+C:\Users\Daya\Desktop\Lab2final\Lab2final\obj\Debug\Lab2final.pdb
