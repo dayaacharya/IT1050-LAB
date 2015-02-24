@@ -38,6 +38,7 @@ namespace Lab2final
             Console.WriteLine(Hem.name + "," + Hem.age + "," + Hem.species + "," + Hem.owner.GetFullName());
             Console.WriteLine(Hari.name + "," + Hari.age + "," + Hari.species + "," + Hari.owner.GetFullName());
             Console.WriteLine(Sam.name + "," + Sam.age + "," + Sam.species + "," + Sam.owner.GetFullName());
+            Console.ReadLine();
         }
-    }
+     }
 }
