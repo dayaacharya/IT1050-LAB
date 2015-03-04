@@ -4,3 +4,6 @@ C:\Users\Daya\Desktop\ConsoleApplication1\version2\bin\Debug\version2.pdb
 C:\Users\Daya\Desktop\ConsoleApplication1\version2\obj\Debug\version2.csprojResolveAssemblyReference.cache
 C:\Users\Daya\Desktop\ConsoleApplication1\version2\obj\Debug\version2.exe
 C:\Users\Daya\Desktop\ConsoleApplication1\version2\obj\Debug\version2.pdb
+C:\Users\Daya\Desktop\IT1050-LAB\ConsoleApplication1\version2\bin\Debug\version2.exe.config
+C:\Users\Daya\Desktop\IT1050-LAB\ConsoleApplication1\version2\obj\Debug\version2.exe
+C:\Users\Daya\Desktop\IT1050-LAB\ConsoleApplication1\version2\obj\Debug\version2.pdb
