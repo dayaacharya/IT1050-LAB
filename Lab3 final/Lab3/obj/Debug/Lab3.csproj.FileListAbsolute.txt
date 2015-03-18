@@ -4,3 +4,9 @@ C:\Users\Daya\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe
 C:\Users\Daya\Desktop\Lab3\Lab3\bin\Debug\Lab3.pdb
 C:\Users\Daya\Desktop\Lab3\Lab3\obj\Debug\Lab3.exe
 C:\Users\Daya\Desktop\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Daya\Desktop\IT1050-LAB\Lab3 final\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Daya\Desktop\IT1050-LAB\Lab3 final\Lab3\obj\Debug\Lab3.exe
+C:\Users\Daya\Desktop\IT1050-LAB\Lab3 final\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Daya\Desktop\IT1050-LAB\Lab3 final\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Daya\Desktop\IT1050-LAB\Lab3 final\Lab3\bin\Debug\Lab3.exe
+C:\Users\Daya\Desktop\IT1050-LAB\Lab3 final\Lab3\bin\Debug\Lab3.pdb
