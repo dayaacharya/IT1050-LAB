@@ -1,0 +1,5 @@
+C:\Users\Daya\Desktop\Lab4 final\Lab4 final\bin\Debug\Lab4 final.exe.config
+C:\Users\Daya\Desktop\Lab4 final\Lab4 final\bin\Debug\Lab4 final.exe
+C:\Users\Daya\Desktop\Lab4 final\Lab4 final\bin\Debug\Lab4 final.pdb
+C:\Users\Daya\Desktop\Lab4 final\Lab4 final\obj\Debug\Lab4 final.exe
+C:\Users\Daya\Desktop\Lab4 final\Lab4 final\obj\Debug\Lab4 final.pdb
